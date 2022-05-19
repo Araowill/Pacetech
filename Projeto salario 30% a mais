@@ -1,0 +1,26 @@
+algoritmo "salario + 30%"
+pegar o salario
+fazer 30% de seu valor
+somar com o valor do salario
+informar ao cliente
+var
+ Salario: real
+ Salarioretornado: real
+
+inicio
+  escreval("Informe o seu sal�rio:")
+   leia(Salario)
+   
+  Salarioretornado <- (Salario * 0.3)+ Salario
+   escreval("seu salario �: ", salarioretornado)
+
+    
+    
+
+
+
+        
+
+fimalgoritmo
+
+
