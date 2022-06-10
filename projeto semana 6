@@ -1,0 +1,69 @@
+   package
+
+
+     import java.util.Scanner;
+
+   public class Main {
+
+     public static void
+
+
+   System.out.println("Oque voce deseja realizar")
+  
+
+  System.out.println(""1 - reais ; Dólar"
+     2- Dólar ; reais
+     3- celsius ; fahrenheit
+     4- fahrenheit ; celsius
+    5 - sair")
+
+    float DR, RD, FC, CF, celsius, fahrenheit, ctdolar, cotdolar, dolar, brasileiro;
+     string opcao;
+
+     if(string = 1) {
+      System.out.println(""Qual a cotação atual do Dólar?"");
+       Scanner leitorScanner = new Scanner(System.in);
+      System.out.println("Valor em reais?");
+       Scanner leitorScanner = new Scanner(System.in);
+      DR <- brasileiro * ctdolar
+       System.out.println("DR");
+       System.out.println("voce quer fazer outra conversão?);
+
+     }
+
+    if(string = 2) {
+     System.out.println("Valor em dolares?");
+      Scanner leitorScanner = new Scanner(System.in);
+     System.out.println("Qual a cotação atual do Dólar?");
+      Scanner leitorScanner = new Scanner(System.in);
+       RD <- dolar * ctdolar
+       System.out.println("Valor em reais é:", RD);
+      System.out.println("voce quer fazer outra conversão?);
+
+    }
+
+    if(string = 3) {
+      System.out.println("Qual a temperatura em  celsius?");
+       Scanner leitorScanner = new Scanner(System.in);
+      
+         CF <- (celsius * 1.8) + 32
+      System.out.println("A temperatura em F° é", CF);
+
+      System.out.println("voce quer fazer outra conversão?");
+
+   }
+
+
+   if(string = 4) {
+    System.out.println("Qual a temperatura em F°?")
+     Scanner leitorScanner = new Scanner(System.in);
+
+    FC <- (fahrenheit - 32)/ 1.8
+     System.out.println("A temperatura em C° é", FC)
+     System.out.println("voce quer fazer outra conversão?")
+
+
+   }
+
+   if(string = 5)
+    
