@@ -1,0 +1,60 @@
+public class Main {
+
+    public static void main(String[] args) {
+        empregado = new empregado();
+        Scanner leitor = new Scanner(system.in);
+        
+        public class Func1(String nome)
+          System.out.println("Func1 se chama : " + nome)
+        
+        public static void main(String[] args) {
+          Func1 Func1 = new func1(" Marcio")  
+            
+            
+        }
+        
+        empregado = new empregado
+        
+        public class Func1(String nome)
+          System.out.println("Func2 se chama : " + nome)
+        
+        public static void main(String[] args) {
+          Func2 Func2 = new func2(" Julio")
+                  
+        SalarioAnual <- SalarioMensal * 12
+                
+              System.out.println(SalarioAnual)
+                       
+           
+              SalarioAnuaLDEZPORCENTO <-  SalarioAnual + (SalarioAnual * 0.1)
+                      
+                system.out.println(SalarioAnuaLDEZPORCENTO) 
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   package semana7;
+
+
+public class Empregado {
+   int PrimNome;
+   int Sobrenome;      
+   float SalarioMensal; 
+}
+ public Empregado(){
+ System.out.println("Insira o primeiro nome");
+   Scanner leitor = new(system.in);
+ System.out.println("Insira o seu sobrenome"); 
+   Scanner leitor = new(system.in);
+ System.out.println("Insira seu salario");
+   Scanner leitor = new(system.in);
+        
+        }
+
+    Empregado(String PrimNome, String Sobrenome, Float SalarioMnesal);
+           this.PrimNome = PrimNome;
+           this.Sobrenome =  Sobrenome;
+           this.SalarioMnesal =  SalarioMnesal;
